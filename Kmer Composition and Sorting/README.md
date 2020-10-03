@@ -48,12 +48,12 @@ A window of length “k”, is slid over our original genome sequence for “(le
 
 
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 #### Lexicographic Sorting
 The obtained list is prioritized based on alphabetic order and rearranged in the list. The priority order in a DNA sequence is given by :-
 <img src="https://user-images.githubusercontent.com/65535504/94992502-05824480-05a8-11eb-83c5-b1a82a8260a3.png" width="500" height="50">  
-Priority Order  
+Priority Order : 
 <img src="https://user-images.githubusercontent.com/65535504/94992621-f5b73000-05a8-11eb-84b1-d983159c7d83.jpg" width="300" height="150" align="left">
 <img src="https://user-images.githubusercontent.com/65535504/94992635-13849500-05a9-11eb-9969-f1582d76c48d.jpg" width="300" height="120" align="left"> 
 <br /><br /><br /><br /><br /><br /><br />
-<img src="https://user-images.githubusercontent.com/65535504/94992560-775a8e00-05a8-11eb-9e71-b4050f0d96d1.png" width="550" height="120" align="left">
+<img src="https://user-images.githubusercontent.com/65535504/94992560-775a8e00-05a8-11eb-9e71-b4050f0d96d1.png" width="550" height="100" align="left">
